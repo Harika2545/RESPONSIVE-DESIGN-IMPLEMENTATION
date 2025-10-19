@@ -28,4 +28,7 @@ The final deliverable of this task is a **fully responsive webpage** that mainta
 
 In summary, this task emphasizes the core principles of modern web design — flexibility, accessibility, and user experience. By using HTML for structure, CSS for styling and responsiveness, and JavaScript for interactivity, the webpage serves as a practical example of responsive web development. The project showcases the application of theoretical concepts in a real-world scenario, reflecting both creativity and technical proficiency in front-end design.
 
+# **OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a276fbbf-7561-408d-832f-7b60a5069219" />
+
 
